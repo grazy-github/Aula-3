@@ -17,7 +17,7 @@ namespace Tipos_de_variavel
 
             Console.WriteLine("\n Meu nome completo é {0}", fullname + ". \n"
                 + "\n Minha idade é {0}", age
-                );
+                + ". \n");
             //dont use a lot of lines with code if you can do it better
         }
     }
